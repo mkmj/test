@@ -8,7 +8,7 @@ public class HelloWorld {
 	public int sum() {
 		return 3+5;
 	}//메소드 작성
-	public int mulit() {
-		return 5*3;
+	public int sub() {
+		return 5-3;
 	}
 }
